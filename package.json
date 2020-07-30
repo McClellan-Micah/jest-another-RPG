@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "  OOP RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McClellan-Micah/jest-another-RPG.git"
+  },
+  "author": "https://github.com/McClellan-Micah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McClellan-Micah/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/McClellan-Micah/jest-another-RPG#readme"
+}

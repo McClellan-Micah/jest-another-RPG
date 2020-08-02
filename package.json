@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/McClellan-Micah/jest-another-RPG#readme",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "jest": "^26.2.2"
   }
 }
